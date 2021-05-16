@@ -3866,7 +3866,7 @@ Co-authored-by: marcus8448 &lt;28928887+marcus8448@users.noreply.github.com&gt;
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.5814203335077 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.589256479024 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4102,7 +4102,7 @@ Co-authored-by: marcus8448 &lt;28928887+marcus8448@users.noreply.github.com&gt;
                     These metrics do not include all private contributions, timezone Pacific/Auckland
                 </span>
                 <span>
-                    Last updated Sun, 16 May 2021 03:27:14 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sun, 16 May 2021 04:21:35 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
